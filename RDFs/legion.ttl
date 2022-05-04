@@ -228,7 +228,8 @@
     schema:member
         <Yamazaki_Meika>,
         <Yanagisawa_Ayako>,
-        <Arakawa_Hitomi> ;
+        <Arakawa_Hitomi>,
+        <Oniki_Kanatsuki> ;
     a lily:Legion ;
 .
 
@@ -336,7 +337,10 @@
     # lily:legionGrade ""^^xsd:string ;
     # lily:numberOfMembers ""^^xsd:integer ;
     schema:member
-        <Matsumura_Fuka> ;
+        <Matsumura_Fuka>,
+        <Makino_Mitake>,
+        <Kagawa_Makina>,
+        <Morimoto_Yuni> ;
     a lily:Legion ;
 .
 
